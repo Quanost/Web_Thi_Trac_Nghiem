@@ -1,0 +1,36 @@
+
+.body-loadcomment{ 
+    color: #575555;
+    opacity: 0.7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.footer-loadcomment{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    height: 50px;
+}
+.icon-like{
+    margin-right: 50px;
+    height: 50px;
+}
+.replay-comment {
+    margin-left: 20px;
+    margin-top: 20px;
+   width: 800px;
+  
+    
+}
+.avatar-left{
+    float: left;
+    width: 50px;
+
+
+}
+.avatar-right{
+  
+   margin-left: 10px;
+
+}

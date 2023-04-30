@@ -1,0 +1,53 @@
+.exams-content {
+    margin: auto;
+    width: 710px;
+    height: 145px;
+    border: solid rgb(238, 232, 232);
+    border-radius: 5px;
+}
+
+.exams-content h2 {
+    padding-left: 20px;
+    color: #065592;
+    font-size: 22px;
+}
+
+.icon-header {
+    display: flex;
+    justify-content: space-between;
+    width: 550px;
+}
+
+.exams-content p {
+    padding-left: 25px;
+    padding-top: 20px;
+    display: inline-block;
+
+}
+
+.loading {
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 500px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.button-exams {
+    margin-left: 35px;
+    margin-right: 20px;
+    height: 50px;
+    width: 110px;
+    background: rgb(221, 175, 89);
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.countQuesttion {
+    margin-top: -15px;
+    margin-left: -600px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

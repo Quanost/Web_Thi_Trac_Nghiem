@@ -1,0 +1,48 @@
+.content{
+    width: 90vh;
+    height: 100%;
+    border: 3px solid green;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+.content h1{
+    text-align: center;
+    width: 100%;
+   margin-left: -30px;
+   color: #bbb7b7;
+}
+.fillter-option {
+  width: 100%; 
+ 
+}
+.fillter-option select{
+    width: 350px;
+    height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.combobox-content{
+    width: 350px;
+    height: 100%; 
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.combobox p{
+    display: inline-block;
+}
